@@ -1,6 +1,6 @@
 # Idle Tycoon Miner Clone
 # Game Description
-This game is a clone of the popular "Idle Miner Tycoon" game, allowing you to step into the world of mining. You start with a brand new Coal Mine, and initially, it's your job to manually run the miners. As you start earning cash, you can automate and expand the workflow by hiring managers. Managers in your mine shafts, elevators, and depots earn you Idle Cash when the game is closed.
+This game is a clone of the popular "Idle Miner Tycoon" game, allowing you to step into the world of mining. You start with a brand new Coal Mine, and initially, it's your job to manually run the miners. As you start earning cash, you can automate and expand the workflow by hiring managers. Managers in your mine shafts, elevators, and depots earn you Idle Cash when the game is closed. 
 
 # How to Play
 To play the game, follow these steps:
