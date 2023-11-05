@@ -1,6 +1,6 @@
 # Idle Tycoon Miner Clone
 # Game Video
-https://www.artstation.com/artwork/492yPq
+https://www.artstation.com/artwork/492yPq  
 https://youtube.com/shorts/55Tb4JvjPDs?si=4eSCsV2-njcBz_qi
 
 # Game Description
