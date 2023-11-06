@@ -1,5 +1,8 @@
 # Idle Tycoon Miner Clone
 # Game Video
+
+https://github.com/Enes-Doganay/IdleTycoonMinerClone/assets/71710802/4a62d6d9-0d18-46fe-ba86-3c955d336ee0
+
 https://www.artstation.com/artwork/492yPq  
 https://youtube.com/shorts/55Tb4JvjPDs?si=4eSCsV2-njcBz_qi
 
